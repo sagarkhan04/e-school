@@ -1,0 +1,86 @@
+.bg-top{
+    /* background-image: url(images/Photos/Illustration.png);
+    background-repeat: no-repeat; */
+    background-color: rgb(246, 255, 249);
+}
+.top-banner{
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.button{
+    background-color: rgb(8, 107, 52);
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 6px 18px;
+}
+
+.text-red{
+    color: red;
+}
+.text-green{
+    color:  rgb(8, 107, 52);
+}
+.text-gray{
+    color: gray;
+}
+
+
+.card{
+    background-color: rgb(246, 255, 249);
+    padding: 0px 20px;
+    padding: 20px;
+}
+
+.card:hover{
+    background-color: white;
+    box-shadow: 2px 2px 4px;
+}
+
+.content{
+    margin-top: 100px;
+}
+
+/* .card-img, .card-img-top{
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+} */
+
+.bg-color{
+    background-color: rgb(246, 255, 249);
+    padding: 30px;
+}
+
+.card-body img{
+    display: block;
+    margin: auto;
+}
+
+.course-gap{
+    margin-top: 40px;
+}
+
+.card-footer{
+    background-color: transparent;
+    border: none;
+}
+
+.test-section{
+    padding: 70px 100px;
+}
+
+.test-section img{
+    float: left;
+    margin-right: 20px;
+}
+
+.col-2 ul, .col-3 ul{
+    list-style: none;
+}
+
+.foot{
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
